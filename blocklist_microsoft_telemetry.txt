@@ -46,6 +46,10 @@ v10-win.vortex.data.microsoft.com.akadns.net
 v20.events.data.microsoft.com
 v20.vortex-win.data.microsoft.com
 vortex-win.data.microsoft.com
+
+self.events.data.microsoft.com
+nexus.officeapps.live.com
+hubblecontent.osi.office.net
 vortex-win-sandbox.data.microsoft.com
 watson.telemetry.microsoft.com
 weus2watcab01.blob.core.windows.net
