@@ -1,1 +1,1 @@
-# pihole-lists
+# PiHole-Blocklists
